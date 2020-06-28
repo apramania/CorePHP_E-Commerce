@@ -1,0 +1,12 @@
+{
+  "name": "mobile-store",
+  "version": "1.0.0",
+  "description": "Online E-commerce application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sass ./sass/style.scss ./css/style.css --watch"
+  },
+  "author": "Apratim Das",
+  "license": "ISC"
+}

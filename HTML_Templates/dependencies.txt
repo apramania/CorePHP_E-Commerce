@@ -1,0 +1,9 @@
+Sass
+
+Bootstrap v4.5
+
+Owl Carousel 2
+
+Font awesome v5.13
+
+Node version v12.1.0
